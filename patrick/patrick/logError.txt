@@ -1,0 +1,68 @@
+
+[ Minggu, 13 - 05 - 2018 | 10:52:49 ] Invalid mids
+[ Minggu, 13 - 05 - 2018 | 11:44:44 ] Invalid mids
+[ Minggu, 13 - 05 - 2018 | 12:02:19 ] Invalid mids
+[ Minggu, 13 - 05 - 2018 | 12:02:30 ] Invalid mids
+[ Minggu, 13 - 05 - 2018 | 12:54:09 ] Invalid mids
+[ Minggu, 13 - 05 - 2018 | 13:05:05 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Minggu, 13 - 05 - 2018 | 13:06:07 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Minggu, 13 - 05 - 2018 | 13:06:32 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Minggu, 13 - 05 - 2018 | 13:15:35 ] Invalid mids
+[ Minggu, 13 - 05 - 2018 | 13:31:15 ] Invalid mids
+[ Minggu, 13 - 05 - 2018 | 14:21:26 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Minggu, 13 - 05 - 2018 | 14:21:34 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Minggu, 13 - 05 - 2018 | 15:28:23 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Minggu, 13 - 05 - 2018 | 15:28:27 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Minggu, 13 - 05 - 2018 | 15:58:44 ] Invalid mids
+[ Minggu, 13 - 05 - 2018 | 16:01:42 ] Invalid mids
+[ Minggu, 13 - 05 - 2018 | 16:02:20 ] Invalid mids
+[ Minggu, 13 - 05 - 2018 | 16:06:01 ] Invalid mids
+[ Minggu, 13 - 05 - 2018 | 16:25:58 ] Invalid mids
+[ Minggu, 13 - 05 - 2018 | 16:27:42 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Minggu, 13 - 05 - 2018 | 16:27:44 ] Invalid mids
+[ Minggu, 13 - 05 - 2018 | 16:28:06 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Minggu, 13 - 05 - 2018 | 16:28:25 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Minggu, 13 - 05 - 2018 | 16:28:46 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Minggu, 13 - 05 - 2018 | 16:29:16 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Minggu, 13 - 05 - 2018 | 16:29:45 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Minggu, 13 - 05 - 2018 | 16:30:35 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Minggu, 13 - 05 - 2018 | 16:30:50 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Minggu, 13 - 05 - 2018 | 16:31:05 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Minggu, 13 - 05 - 2018 | 16:31:21 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Minggu, 13 - 05 - 2018 | 16:31:21 ] Invalid mids
+[ Minggu, 13 - 05 - 2018 | 16:51:53 ] Invalid mids
+[ Minggu, 13 - 05 - 2018 | 16:51:53 ] Invalid mids
+[ Minggu, 13 - 05 - 2018 | 17:09:13 ] Invalid mids
+[ Minggu, 13 - 05 - 2018 | 17:09:33 ] Expecting value: line 1 column 1 (char 0)
+[ Minggu, 13 - 05 - 2018 | 17:12:30 ] Invalid mids
+[ Minggu, 13 - 05 - 2018 | 17:19:47 ] Invalid mids
+[ Minggu, 13 - 05 - 2018 | 17:20:46 ] Invalid mids
+[ Minggu, 13 - 05 - 2018 | 17:24:53 ] Invalid mids
+[ Minggu, 13 - 05 - 2018 | 17:26:22 ] Invalid mids
+[ Minggu, 13 - 05 - 2018 | 17:31:53 ] Expecting value: line 1 column 1 (char 0)
+[ Minggu, 13 - 05 - 2018 | 19:07:17 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 13 - 05 - 2018 | 19:07:30 ] Invalid mids
+[ Minggu, 13 - 05 - 2018 | 19:20:46 ] Invalid mids
+[ Minggu, 13 - 05 - 2018 | 20:04:18 ] Invalid mids
+[ Minggu, 13 - 05 - 2018 | 21:36:10 ] Expecting value: line 1 column 1 (char 0)
+[ Minggu, 13 - 05 - 2018 | 21:37:41 ] Couldn't find a tree builder with the features you requested: html5lib. Do you need to install a parser library?
+[ Minggu, 13 - 05 - 2018 | 21:41:40 ] Invalid mids
+[ Minggu, 13 - 05 - 2018 | 21:42:39 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 13 - 05 - 2018 | 21:42:54 ] Invalid mids
+[ Minggu, 13 - 05 - 2018 | 21:43:18 ] Invalid mids
+[ Minggu, 13 - 05 - 2018 | 21:43:45 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 13 - 05 - 2018 | 21:43:48 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 13 - 05 - 2018 | 21:43:51 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 13 - 05 - 2018 | 21:43:54 ] TalkException(code=10, reason='not a member', parameterMap={})
+[ Minggu, 13 - 05 - 2018 | 21:45:02 ] Invalid mids
+[ Minggu, 13 - 05 - 2018 | 21:46:40 ] Invalid mids
+[ Minggu, 13 - 05 - 2018 | 21:48:25 ] Invalid mids
+[ Minggu, 13 - 05 - 2018 | 21:49:37 ] Invalid mids
+[ Senin, 14 - 05 - 2018 | 10:41:26 ] Invalid mids
+[ Senin, 14 - 05 - 2018 | 10:43:10 ] Invalid mids
+[ Senin, 14 - 05 - 2018 | 10:55:55 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Senin, 14 - 05 - 2018 | 11:32:42 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Senin, 14 - 05 - 2018 | 11:32:45 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[ Senin, 14 - 05 - 2018 | 11:44:53 ] Invalid mids
+[ Senin, 14 - 05 - 2018 | 11:45:38 ] Invalid mids
+[ Senin, 14 - 05 - 2018 | 11:51:53 ] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
